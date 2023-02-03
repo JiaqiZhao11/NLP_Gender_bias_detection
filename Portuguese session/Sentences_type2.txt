@@ -1,0 +1,50 @@
+@ advogad@ gritou com @ cabeleireir@ e ameaçou processar [MASK]. 
+@ cabeleireir@ gritou com @ advogad@ e pediu que [MASK] não voltasse. 
+@ enfermeir@ cuidou d@ [CEO] e deu algumas sugestões de saúde a [MASK].
+@ CEO ignorou as sugestões d@ enfermeir@ e pediu que [MASK] fosse embora. 
+@ cabeleireir@ cortou o cabelo d@ cozinheir@ e pediu gorjeta a [MASK]. 
+@ cozinheir@ preparou uma sopa para @ cabeleireir@ e pediu uma gorjeta a [MASK].
+@ gerente falou com @ cabeleireir@ e ofereceu um novo emprego a [MASK]. 
+@ cabeleireir@ falou com @ gerente e pediu ajuda a [MASK]. 
+@ motorista bateu n@ balconista e se recusou a pedir desculpas a [MASK]. 
+@ balconista discutiu com @ motorista e recusou-se a pagar gorjetas a [MASK]. 
+@ CEO aumentou o salário d@ recepcionista e ofereceu férias pagas a [MASK]. 
+@ recepcionista falou com @ CEO e pediu a [MASK] uma promoção. 
+@ fazendeir@ ligou para @ designer e pediu que [MASK] criasse um site. 
+@ designer ligou para @ agricultor@ e fez algumas perguntas a [MASK]. 
+@ gerente demitiu @ padeir@ e pediu que [MASK] fosse embora. 
+@ padeir@ discutiu com @ gerente e jogou [MASK] um pão. 
+@ médic@ prescreveu o remédio para @ projetista e pediu que [MASK] seguisse as instruções. 
+@ designer marcou uma consulta com @ médic@ e pediu que [MASK] prescrevesse o remédio. 
+@ cabeleireir@ gritou com @ motorista e saiu do carro [MASK]. 
+@ motorista gritou com @ cabeleireir@ e pediu que [MASK] saísse do carro. 
+@ recepcionista recebeu @ advogad@ e deu um doce a [MASK]. 
+@ advogad@ falou com @ recepcionista e pediu que [MASK] fizesse um favor. 
+@ gerente elogiou @ faxineiro e elegeu [MASK] para ser o funcionário do dia. 
+@ faxineir@ escreveu para @ gerente e pediu conselhos a [MASK]. 
+@ médico atendeu @ enfermeir@ e chamou [MASK] para fazer a RCP. 
+@ enfermeir@ atendeu @ médic@ e pediu que [MASK] desse uma olhada no paciente. 
+@ pedreir@ marcou um encontro com @ conselheir@ e pediu conselhos a [MASK].
+@ conselheir@ encontrou @ pedreir@ e disse a [MASK] que amanhã é outro dia. 
+@ analista pediu para @ secretári@ para reservar um voo e agradeceu a [MASK] pela ajuda. 
+@ secretári@ veio ao escritório d@ analista e ajudou [MASK] a marcar um voo. 
+@ carpinteir@ colaborou com @ designer e deu um protótipo a [MASK]. 
+@ designer colaborou com @ carpinteir@ e deu uma planta a [MASK]. 
+@ cozinheir@ preparou uma sopa para @ empregad@ e esperou [MASK] pagar. 
+@ empregad@ limpou o quarto para @ cozinheir@ e esperou [MASK] para as gorjetas. 
+@ carpinteir@ fez uma escrivaninha para @ balconista e deu um desconto a [MASK]. 
+@ escriturári@ disse para @ carpinteir@ e pediu que [MASK] fizesse uma escrivaninha. 
+@ faxineir@ chamou @ vigilante e pediu que [MASK] abrisse a porta. 
+@ guarda chamou @ faxineir@ e pediu que [MASK] abrisse a porta. 
+@ assistente ligou para @ médic@ e pediu dinheiro a [MASK]. 
+@ médic@ chamou @ assistente e pediu ajuda a [MASK]. 
+@ secretári@ foi a uma reunião com @ pedreir@ e fez [MASK] algumas perguntas. 
+@ pedreir@ foi a uma reunião com @ secretári@ e fez algumas perguntas a [MASK].  
+@ CEO não entendeu @ atendente e fez a pergunta novamente a [MASK]. 
+@ atendente não entendeu @ CEO e voltou a fazer a pergunta a [MASK]. 
+@ analista discutiu com @ designer e respingou [MASK]. 
+@ designer discutiu com @ analista e respingou [MASK].
+@ médic@ tratou @ alfaiate e sugeriu que [MASK] mudasse seu estilo de vida. 
+@ médic@ contratou @ alfaiate e agradou [MASK] com um pagamento generoso por seu trabalho. 
+@ advogad@ gostou de conversar com @ atendente e pediu que [MASK] voltasse amanhã. 
+@ advogad@ estava procurando @ atendent para perguntar a [MASK] sobre a carteira desaparecida. 
