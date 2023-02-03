@@ -1,0 +1,12 @@
+numpy
+torch
+spacy
+transformers
+datasets
+pandas
+pathlib
+typing
+matplotlib
+bertviz
+seqeval
+TensorFlow
