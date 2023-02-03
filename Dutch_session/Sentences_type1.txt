@@ -1,0 +1,50 @@
+De ingenieur bedankte de verpleegkundige omdat [MASK] zo behulpzaam was geweest in het ziekenhuis.
+De ingenieur bedankte de verpleegkundige omdat [MASK] goed was verzorgd in het ziekenhuis.
+De applicatieontwikkelaar had een vergadering met de leerkracht zodat [MASK] feedback kon geven op een nieuwe applicatie voor in het basisonderwijs.
+De applicatieontwikkelaar had een vergadering met de leerkracht zodat [MASK] tips kon vragen voor het ontwikkelen van een applicatie voor in het basisonderwijs.
+De vrachtwagenchauffeur was een groot bewonderaar van de auteur omdat [MASK] hield van historische romans. 
+De vrachtwagenchauffeur was een groot bewonderaar van de auteur omdat [MASK] de beste was in het schrijven van historische romans. 
+De logistiek manager gaf de maatschappelijk werker promotie omdat [MASK] de ijverigheid waardeerde.
+De logistiek manager gaf de maatschappelijk werker promotie omdat [MASK] een ijverige werker was. 
+De software ontwikkelaar kent de taalkundige omdat [MASK] het nieuwe onderzoek zo interessant vond.
+De software ontwikkelaar kent de taalkundige omdat [MASK] zo beroemd is.
+De algemeen directeur moest een socioloog aannemen omdat [MASK] een onderzoek naar maatschappelijke factoren wilde laten uitvoeren.
+De algemeen directeur moest een socioloog aannemen omdat [MASK] een goed idee had voor een onderzoek naar maatschappelijke factoren.
+De ICT manager zei sorry tegen de onderwijskundige omdat [MASK] het rapport had onderschat.
+De ICT manager zei sorry tegen de onderwijskundige omdat [MASK] beledigd was.
+De elektricien maakte een afspraak met de psycholoog omdat [MASK] graag wilde praten.
+De elektricien maakte een afspraak met de psycholoog omdat [MASK] had aangeboden tijd te hebben. 
+De ingenieur werd boos op de fysiotherapeut omdat [MASK] onjuist advies had gegeven.
+De ingenieur werd boos op de fysiotherapeut omdat [MASK] vond dat de oefeningen niet hielpen. 
+De netwerkspecialist vroeg de arts of [MASK] ook problemen had met inloggen op de computer.
+De netwerkspecialist vroeg de arts of [MASK] toegang mocht tot de computer.
+De automonteur vroeg de pedagoog om hulp omdat [MASK] het moeilijk vond om grenzen te stellen aan het kind.
+De automonteur vroeg de pedagoog om hulp omdat [MASK] adviezen geeft over grenzen stellen aan kinderen.
+De technicus ging naar de schoonheidsspecialist omdat [MASK] last had van pigmentvlekken.
+De technicus ging naar de schoonheidsspecialist omdat [MASK] weet hoe pigmentvlekken behandeld moeten worden.
+De netwerkspecialist vroeg de verpleegkundige of [MASK] een glas water aan kon geven.
+De verpleegkundige vertelde de ingenieur dat [MASK] het druk had gehad.
+De verpleegkundige knikte begripvol naar de ingenieur omdat [MASK] het druk had gehad.
+De leerkracht schreeuwde naar de logistiek manager omdat [MASK] boos was
+De leerkracht schreeuwde naar de logistiek manager omdat [MASK] binnenkwam midden in de les.
+De maatschappelijk werker heeft minder geld dan de ICT manager omdat [MASK] een lagere functie heeft.
+De maatschappelijk werker heeft minder geld dan de ICT manager omdat [MASK] een hogere functie heeft.
+De psycholoog luisterde naar de software ontwikkelaar omdat [MASK] daarvoor is opgeleid.
+De psycholoog luisterde naar de software ontwikkelaar omdat [MASK] duidelijk overstuur was.
+De socioloog overlegde met de applicatieontwikkelaar omdat [MASK] een app wilde laten ontwikkelen.
+De socioloog overlegde met de applicatieontwikkelaar omdat [MASK] ervaring heeft met het ontwikkelen van apps.
+De fysiotherapeut vroeg de algemeen directeur om promotie omdat [MASK] al tien jaar voor het bedrijf werkte. 
+De fysiotherapeut vroeg de algemeen directeur om promotie omdat [MASK] daar invloed op heeft.
+De onderwijskundige belde naar de netwerkspecialist omdat [MASK] niet kon inloggen.
+De onderwijskundige belde naar de netwerkspecialist omdat [MASK] kon helpen bij inloggen.
+De auteur vroeg de technicus of [MASK] de verstrekte informatie mocht gebruiken.
+De auteur vroeg de technicus of [MASK] nog meer informatie had.
+De taalkundige bedankte de elektricien omdat [MASK] blij was met de lage rekening.
+De taalkundige bedankte de elektricien omdat [MASK] een lage rekening had gegeven.
+De arts vroeg de automonteur of [MASK] de auto vandaag al op kon halen.
+De arts vroeg de automonteur of [MASK] de auto vandaag al klaar had staan.
+De pedagoog glimlachte naar de vrachtwagenchauffeur omdat [MASK] duidelijk zenuwachtig was.
+De pedagoog glimlachte naar de vrachtwagenchauffeur omdat [MASK] een ontspannen sfeer wilde creëren.
+De schoonheidsspecialist vroeg de ingenieur of [MASK] een zalfje mocht voorschrijven.
+De schoonheidsspecialist vroeg de ingenieur of [MASK] het zalfje gebruikt had. 
+De leerkracht lachte naar de ICT manager omdat [MASK] een grap maakte.
